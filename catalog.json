@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Sistem ayarları ve optimizasyon",
+    "packages": [
+      "alacritty",
+      "bleachbit",
+      "btop",
+      "btrfs-assistant",
+      "cpu-x",
+      "filelight",
+      "fsearch",
+      "glances",
+      "gparted",
+      "gsmartcontrol",
+      "hardinfo2",
+      "kdiskmark",
+      "mission-center",
+      "nemo",
+      "octopi",
+      "qdirstat",
+      "smartmontools",
+      "snapper",
+      "spectacle",
+      "shelly",
+      "pavucontrol",
+      "flatpak"
+    ]
+  },
+  {
+    "name": "Ofis ve günlük uygulamalar",
+    "packages": [
+      "ark",
+      "audacity",
+      "chromium",
+      "file-roller",
+      "firefox",
+      "firefox-i18n-tr",
+      "google-chrome",
+      "haruna",
+      "keepassxc",
+      "obs-studio",
+      "onlyoffice-bin",
+      "pdfarranger",
+      "qbittorrent",
+      "telegram-desktop",
+      "vlc",
+      "vlc-plugins-all",
+      "xournalpp",
+      "zen-browser-bin",
+      "zint-qt",
+      "simple-scan",
+      "skanlite",
+      "skanpage",
+      "gimagereader-qt",
+      "tesseract-data-eng",
+      "tesseract-data-tur",
+      "7zip"
+    ]
+  },
+  {
+    "name": "SQL Server ve veritabanı araçları",
+    "packages": [
+      "dbeaver",
+      "go-sqlcmd",
+      "jre21-openjdk"
+    ]
+  },
+  {
+    "name": "Yazılım geliştirme ortamı",
+    "packages": [
+      "android-platform",
+      "android-sdk",
+      "android-sdk-build-tools",
+      "android-sdk-cmdline-tools-latest",
+      "android-sdk-platform-tools",
+      "android-studio",
+      "cmake",
+      "dotnet-sdk",
+      "dotnet-sdk-8.0",
+      "flutter-bin",
+      "fvm",
+      "geany",
+      "git",
+      "jdk17-openjdk",
+      "kate",
+      "meld",
+      "mingw-w64-binutils",
+      "mingw-w64-gcc",
+      "ninja",
+      "nodejs",
+      "notepadqq",
+      "npm",
+      "postman-bin",
+      "powershell-bin",
+      "python",
+      "python-defusedxml",
+      "python-packaging",
+      "python-pyqt5",
+      "python-reportlab",
+      "ripgrep",
+      "visual-studio-code-bin",
+      "github-cli"
+    ]
+  },
+  {
+    "name": "Wine ve Windows uygulamaları",
+    "packages": [
+      "icedtea-web",
+      "icoutils",
+      "msitools"
+    ]
+  },
+  {
+    "name": "VPN ve uzak masaüstü",
+    "packages": [
+      "freerdp",
+      "krdc",
+      "krdp",
+      "networkmanager-openvpn",
+      "remmina",
+      "rustdesk",
+      "xl2tpd"
+    ]
+  },
+  {
+    "name": "Docker ve Portainer",
+    "packages": [
+      "docker",
+      "docker-compose",
+      "lazydocker"
+    ]
+  },
+  {
+    "name": "Sanal makine araçları",
+    "packages": [
+      "dnsmasq",
+      "edk2-ovmf",
+      "libvirt",
+      "qemu-full",
+      "swtpm",
+      "virt-manager",
+      "virt-viewer",
+      "virtualbox",
+      "virtualbox-host-dkms"
+    ]
+  },
+  {
+    "name": "Yedekleme ve kurtarma",
+    "packages": [
+      "backrest",
+      "duplicati-bin",
+      "freefilesync",
+      "restic",
+      "rsync",
+      "ventoy-bin"
+    ]
+  },
+  {
+    "name": "Ağ ve güvenlik araçları",
+    "packages": [
+      "filezilla",
+      "gtkhash",
+      "nmap",
+      "opensnitch",
+      "openssh",
+      "samba",
+      "ufw",
+      "ufw-extras",
+      "wget",
+      "wireshark-qt",
+      "zenmap"
+    ]
+  },
+  {
+    "name": "Masaüstü simgeleri ve kısayollar",
+    "packages": []
+  }
+]

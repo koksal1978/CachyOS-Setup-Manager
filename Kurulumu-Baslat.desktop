@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=CachyOS Setup Manager
+Comment=Kurulum ve güncelleme yöneticisini aç
+Icon=system-software-install
+Terminal=false
+Exec=konsole --hold -e python -c "import os,sys,pathlib,urllib.parse; p=sys.argv[1]; p=urllib.parse.unquote(urllib.parse.urlparse(p).path) if p.startswith('file:') else p; os.chdir(pathlib.Path(p).resolve().parent); os.execvp('bash',['bash','launch.sh'])" %k

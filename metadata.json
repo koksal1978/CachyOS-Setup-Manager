@@ -1,0 +1,490 @@
+{
+  "alacritty": [
+    "Alacritty",
+    "GPU hızlandırmalı terminal."
+  ],
+  "bleachbit": [
+    "BleachBit",
+    "Geçici dosyaları ve önbelleği temizler."
+  ],
+  "btop": [
+    "btop",
+    "İşlemci, bellek, disk ve ağ izleme."
+  ],
+  "btrfs-assistant": [
+    "Btrfs Assistant",
+    "Btrfs diskleri ve anlık görüntüleri yönetir."
+  ],
+  "cpu-x": [
+    "CPU-X",
+    "CPU-Z benzeri donanım bilgileri."
+  ],
+  "filelight": [
+    "Filelight",
+    "Disk kullanımını grafikle gösterir."
+  ],
+  "fsearch": [
+    "FSearch",
+    "Everything benzeri hızlı dosya araması."
+  ],
+  "glances": [
+    "Glances",
+    "Terminalden sistem kaynaklarını izler."
+  ],
+  "gparted": [
+    "GParted",
+    "Disk bölümlerini yönetir."
+  ],
+  "gsmartcontrol": [
+    "GSmartControl",
+    "Disk SMART sağlık testleri."
+  ],
+  "hardinfo2": [
+    "Hardinfo2",
+    "Donanım envanteri ve performans testleri."
+  ],
+  "kdiskmark": [
+    "KDiskMark",
+    "Disk okuma ve yazma hızını ölçer."
+  ],
+  "mission-center": [
+    "Mission Center",
+    "Windows Görev Yöneticisi benzeri izleme."
+  ],
+  "nemo": [
+    "Nemo",
+    "Windows Gezgini benzeri dosya yöneticisi."
+  ],
+  "octopi": [
+    "Octopi",
+    "Grafik arayüzlü paket yöneticisi."
+  ],
+  "qdirstat": [
+    "QDirStat",
+    "WizTree benzeri disk alanı analizi."
+  ],
+  "smartmontools": [
+    "SMART Monitoring Tools",
+    "Disk sağlığı için terminal araçları."
+  ],
+  "snapper": [
+    "Snapper",
+    "Btrfs anlık görüntülerini yönetir."
+  ],
+  "spectacle": [
+    "Spectacle",
+    "KDE ekran görüntüsü ve kayıt aracı."
+  ],
+  "shelly": [
+    "Shelly",
+    "Grafik paket yönetimi aracı."
+  ],
+  "pavucontrol": [
+    "PulseAudio Volume Control",
+    "Ses aygıtları ve uygulama seslerini kontrol eder."
+  ],
+  "flatpak": [
+    "Flatpak",
+    "Bağımsız Linux uygulama paketlerini yönetir."
+  ],
+  "ark": [
+    "Ark",
+    "ZIP, RAR ve diğer arşivleri yönetir."
+  ],
+  "audacity": [
+    "Audacity",
+    "Ses kaydı ve düzenleme."
+  ],
+  "chromium": [
+    "Chromium",
+    "Açık kaynak web tarayıcısı."
+  ],
+  "file-roller": [
+    "File Roller",
+    "Grafik arşiv yöneticisi."
+  ],
+  "firefox": [
+    "Mozilla Firefox",
+    "Web tarayıcısı."
+  ],
+  "firefox-i18n-tr": [
+    "Firefox Türkçe dil paketi",
+    "Firefox arayüzünü Türkçeleştirir."
+  ],
+  "google-chrome": [
+    "Google Chrome",
+    "Google web tarayıcısı."
+  ],
+  "haruna": [
+    "Haruna",
+    "KDE video oynatıcı."
+  ],
+  "keepassxc": [
+    "KeePassXC",
+    "Yerel şifre kasası."
+  ],
+  "obs-studio": [
+    "OBS Studio",
+    "Ekran kaydı ve canlı yayın."
+  ],
+  "onlyoffice-bin": [
+    "ONLYOFFICE Desktop Editors",
+    "Word, Excel ve PowerPoint belgelerini düzenler."
+  ],
+  "pdfarranger": [
+    "PDF Arranger",
+    "PDF sayfalarını birleştirir, böler ve sıralar."
+  ],
+  "qbittorrent": [
+    "qBittorrent",
+    "Torrent dosya aktarım istemcisi."
+  ],
+  "telegram-desktop": [
+    "Telegram Desktop",
+    "Masaüstü mesajlaşma."
+  ],
+  "vlc": [
+    "VLC Media Player",
+    "Video ve ses oynatır."
+  ],
+  "vlc-plugins-all": [
+    "VLC eklenti paketi",
+    "VLC için ek oynatma bileşenleri."
+  ],
+  "xournalpp": [
+    "Xournal++",
+    "PDF üzerinde not alma ve çizim."
+  ],
+  "zen-browser-bin": [
+    "Zen Browser",
+    "Firefox tabanlı web tarayıcısı."
+  ],
+  "zint-qt": [
+    "Zint Barcode Studio",
+    "EAN-13 dahil barkod üretir."
+  ],
+  "simple-scan": [
+    "Document Scanner",
+    "Belge ve resim tarama."
+  ],
+  "skanlite": [
+    "Skanlite",
+    "KDE basit tarayıcı uygulaması."
+  ],
+  "skanpage": [
+    "Skanpage",
+    "Çok sayfalı belge tarama."
+  ],
+  "gimagereader-qt": [
+    "gImageReader",
+    "OCR ile görüntüden metin çıkarır."
+  ],
+  "tesseract-data-eng": [
+    "Tesseract İngilizce OCR",
+    "İngilizce metin tanıma verisi."
+  ],
+  "tesseract-data-tur": [
+    "Tesseract Türkçe OCR",
+    "Türkçe metin tanıma verisi."
+  ],
+  "dbeaver": [
+    "DBeaver",
+    "SQL Server ve diğer veritabanlarını yönetir."
+  ],
+  "go-sqlcmd": [
+    "Microsoft SQLCMD",
+    "Terminalden SQL Server sorguları çalıştırır."
+  ],
+  "jre21-openjdk": [
+    "Java 21 Runtime",
+    "DBeaver için Java çalışma ortamı."
+  ],
+  "android-platform": [
+    "Android SDK Platform",
+    "Android uygulama hedef platformu."
+  ],
+  "android-sdk": [
+    "Android SDK",
+    "Android geliştirme araçları."
+  ],
+  "android-sdk-build-tools": [
+    "Android Build Tools",
+    "APK derleme ve paketleme araçları."
+  ],
+  "android-sdk-cmdline-tools-latest": [
+    "Android CLI Tools",
+    "SDK Manager ve komut satırı araçları."
+  ],
+  "android-sdk-platform-tools": [
+    "Android Platform Tools",
+    "ADB ve Fastboot araçları."
+  ],
+  "android-studio": [
+    "Android Studio",
+    "Android uygulama geliştirme ortamı."
+  ],
+  "cmake": [
+    "CMake",
+    "Çapraz platform derleme yapılandırması."
+  ],
+  "dotnet-sdk": [
+    "Microsoft .NET SDK",
+    "C# ve .NET geliştirme araçları."
+  ],
+  "dotnet-sdk-8.0": [
+    "Microsoft .NET 8 SDK",
+    ".NET 8 projelerini derler."
+  ],
+  "flutter-bin": [
+    "Flutter SDK",
+    "Mobil ve masaüstü uygulama geliştirme."
+  ],
+  "fvm": [
+    "Flutter Version Management",
+    "Flutter sürümlerini yönetir."
+  ],
+  "geany": [
+    "Geany",
+    "Hafif kod düzenleyici."
+  ],
+  "git": [
+    "Git",
+    "Kaynak kod sürüm kontrolü."
+  ],
+  "jdk17-openjdk": [
+    "OpenJDK 17",
+    "Java 17 geliştirme kiti."
+  ],
+  "kate": [
+    "Kate",
+    "KDE metin ve kod düzenleyici."
+  ],
+  "meld": [
+    "Meld",
+    "Dosya ve klasör farklarını karşılaştırır."
+  ],
+  "mingw-w64-binutils": [
+    "MinGW-w64 Binutils",
+    "Windows hedefli bağlayıcı ve nesne araçları."
+  ],
+  "mingw-w64-gcc": [
+    "MinGW-w64 GCC",
+    "Windows hedefli C/C++ derleyici."
+  ],
+  "ninja": [
+    "Ninja",
+    "Hızlı derleme motoru."
+  ],
+  "nodejs": [
+    "Node.js",
+    "JavaScript çalışma ortamı."
+  ],
+  "notepadqq": [
+    "Notepadqq",
+    "Notepad++ benzeri metin düzenleyici."
+  ],
+  "npm": [
+    "npm",
+    "JavaScript paket yöneticisi."
+  ],
+  "postman-bin": [
+    "Postman",
+    "REST API istekleri ve servis testleri."
+  ],
+  "powershell-bin": [
+    "Microsoft PowerShell",
+    "Komut satırı ve otomasyon ortamı."
+  ],
+  "python": [
+    "Python",
+    "Python çalışma ortamı."
+  ],
+  "python-defusedxml": [
+    "Python defusedxml",
+    "Güvenli XML işleme kütüphanesi."
+  ],
+  "python-packaging": [
+    "Python Packaging",
+    "Paket sürümü ve metadata işleme."
+  ],
+  "python-pyqt5": [
+    "PyQt5",
+    "Python için Qt5 arayüz kütüphanesi."
+  ],
+  "python-reportlab": [
+    "ReportLab",
+    "Python ile PDF raporu üretir."
+  ],
+  "ripgrep": [
+    "ripgrep",
+    "Dosya içeriklerinde hızlı arama."
+  ],
+  "visual-studio-code-bin": [
+    "Visual Studio Code",
+    "Microsoft kod geliştirme ortamı."
+  ],
+  "icedtea-web": [
+    "IcedTea-Web",
+    "JNLP ve Java Web Start uygulamalarını açar."
+  ],
+  "icoutils": [
+    "ICOut​​ils",
+    "Windows EXE ve ICO simgelerini çıkarır."
+  ],
+  "msitools": [
+    "MSI Tools",
+    "Windows MSI paketlerini inceleme araçları."
+  ],
+  "freerdp": [
+    "FreeRDP",
+    "Windows uzak masaüstü protokolü istemcisi."
+  ],
+  "krdc": [
+    "KRDC",
+    "KDE uzak masaüstü istemcisi."
+  ],
+  "krdp": [
+    "KRdp",
+    "KDE uzak masaüstü sunucu bileşeni."
+  ],
+  "networkmanager-openvpn": [
+    "NetworkManager OpenVPN",
+    "VPN bağlantılarını ağ arayüzüne ekler."
+  ],
+  "remmina": [
+    "Remmina",
+    "RDP, VNC ve SSH bağlantı yöneticisi."
+  ],
+  "rustdesk": [
+    "RustDesk",
+    "Uzaktan destek ve ekran kontrolü."
+  ],
+  "xl2tpd": [
+    "L2TP VPN",
+    "L2TP tünel servisi."
+  ],
+  "docker": [
+    "Docker Engine",
+    "Konteyner çalıştırma altyapısı."
+  ],
+  "docker-compose": [
+    "Docker Compose",
+    "Çok konteynerli uygulamaları yönetir."
+  ],
+  "lazydocker": [
+    "Lazydocker",
+    "Terminalden Docker yönetimi."
+  ],
+  "dnsmasq": [
+    "dnsmasq",
+    "Yerel DNS ve DHCP servisi; sanal ağlarda kullanılır."
+  ],
+  "edk2-ovmf": [
+    "OVMF UEFI Firmware",
+    "Sanal makineler için UEFI firmware."
+  ],
+  "libvirt": [
+    "Libvirt",
+    "Sanal makine ve ağ yönetim altyapısı."
+  ],
+  "qemu-full": [
+    "QEMU / KVM",
+    "Sanal makine emülasyonu ve sanallaştırma."
+  ],
+  "swtpm": [
+    "Software TPM",
+    "Sanal makineler için TPM emülasyonu."
+  ],
+  "virt-manager": [
+    "Virtual Machine Manager",
+    "KVM sanal makinelerini grafik arayüzden yönetir."
+  ],
+  "virt-viewer": [
+    "Virtual Machine Viewer",
+    "Sanal makine ekranına bağlanır."
+  ],
+  "virtualbox": [
+    "Oracle VirtualBox",
+    "Sanal bilgisayar oluşturur ve çalıştırır."
+  ],
+  "virtualbox-host-dkms": [
+    "VirtualBox DKMS sürücüsü",
+    "Çekirdeğe uygun VirtualBox modüllerini derler."
+  ],
+  "backrest": [
+    "Backrest",
+    "Restic için web tabanlı yedekleme yönetimi."
+  ],
+  "duplicati-bin": [
+    "Duplicati",
+    "Zamanlanmış, şifreli dosya yedekleme."
+  ],
+  "freefilesync": [
+    "FreeFileSync",
+    "Dosya karşılaştırma ve klasör eşitleme."
+  ],
+  "restic": [
+    "Restic",
+    "Şifreli, artımlı yedekleme motoru."
+  ],
+  "rsync": [
+    "rsync",
+    "Dosyaları kopyalar ve eşitler."
+  ],
+  "ventoy-bin": [
+    "Ventoy",
+    "Çoklu ISO önyükleme USB aracı."
+  ],
+  "filezilla": [
+    "FileZilla",
+    "FTP ve SFTP dosya aktarımı."
+  ],
+  "gtkhash": [
+    "GtkHash",
+    "Dosya checksum ve hash doğrulama."
+  ],
+  "nmap": [
+    "Nmap",
+    "Ağ keşfi ve port tarama."
+  ],
+  "opensnitch": [
+    "OpenSnitch",
+    "Uygulama bazlı giden ağ bağlantısı denetimi."
+  ],
+  "openssh": [
+    "OpenSSH",
+    "SSH istemci ve sunucu araçları."
+  ],
+  "samba": [
+    "Samba",
+    "Windows uyumlu SMB dosya paylaşımı."
+  ],
+  "ufw": [
+    "Uncomplicated Firewall",
+    "Basit güvenlik duvarı yönetimi."
+  ],
+  "ufw-extras": [
+    "UFW ek profilleri",
+    "Ek uygulama güvenlik duvarı profilleri."
+  ],
+  "wget": [
+    "GNU Wget",
+    "Terminalden dosya indirme."
+  ],
+  "wireshark-qt": [
+    "Wireshark",
+    "Ağ paketlerini yakalar ve analiz eder."
+  ],
+  "zenmap": [
+    "Zenmap",
+    "Nmap grafik arayüzü."
+  ],
+  "7zip": [
+    "7-Zip",
+    "7z, ZIP ve diğer arşiv biçimlerini yönetir."
+  ],
+  "github-cli": [
+    "GitHub CLI",
+    "GitHub depo, issue ve release yönetimi için gh komutu."
+  ]
+}
